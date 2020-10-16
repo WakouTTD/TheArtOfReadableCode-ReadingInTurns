@@ -1,11 +1,13 @@
 ### 
 
 ## The Art of Readable Code
-Simple and Practical Techniques for Writing Better Code**
+Simple and Practical Techniques for Writing Better Code
+
+５・６章
+
+### 
 
 某社他部署で開催された輪読会に参加意志表明したら、いきなり読み上げ担当になった。
-担当は、５・６章
-
 
 ### 
 
@@ -24,6 +26,8 @@ Simple and Practical Techniques for Writing Better Code**
         - 要約コメント
     - 5.4　ライターズブロックを乗り越える
     - 5.5　まとめ
+
+###
 
 - 6章　コメントは正確で簡潔に
     - 6.1　コメントを簡潔にしておく
