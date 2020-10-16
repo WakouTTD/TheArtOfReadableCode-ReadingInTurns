@@ -1,7 +1,7 @@
 ### 
 
 [drag=32 20, drop=5 0]
-# The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
+**The Art of Readable Code: Simple and Practical Techniques for Writing Better Code**
 
 某社他部署で開催された輪読会に参加意志表明したら、いきなり読み上げ担当になった。
 担当は、５・６章
