@@ -1,16 +1,28 @@
-### 
+
 
 ## The Art of Readable Code
 Simple and Practical Techniques for Writing Better Code
 
 ５・６章
 
-### 
+---
 
-某社他部署で開催された輪読会に参加意志表明したら、いきなり読み上げ担当になった。
+[drag=80 20, drop=10 30]
 
-### 
+**
+某社他部署で開催された輪読会、<br>参加希望したら、いきなり読み上げ担当になった。
+**
 
+---
+
+自己紹介
+
+
+---
+
+とりあえず目次
+
+---
 - 5章　コメントすべきことを知る
     - 5.1　コメントするべきでは「ない」こと
         - コメントのためのコメントをしない
@@ -27,7 +39,7 @@ Simple and Practical Techniques for Writing Better Code
     - 5.4　ライターズブロックを乗り越える
     - 5.5　まとめ
 
-###
+---
 
 - 6章　コメントは正確で簡潔に
     - 6.1　コメントを簡潔にしておく
@@ -39,13 +51,8 @@ Simple and Practical Techniques for Writing Better Code
     - 6.7　「名前付き引数」コメント
     - 6.8　情報密度の高い言葉を使う
     - 6.9　まとめ
+---
 
-### 
+書かないと
 
-+++
-
-### 
-
-------------
-
-### 
+---
