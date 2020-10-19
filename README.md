@@ -8,6 +8,8 @@ git clone https://github.com/WakouTTD/TheArtOfReadableCode-ReadingInTurns.git
 cd TheArtOfReadableCode-ReadingInTurns
 
 docker pull gitpitch/trial
+
+docker run -it -v $PWD:/repo -p 9000:9000 gitpitch/trial
 ```
 
 ### 参考
