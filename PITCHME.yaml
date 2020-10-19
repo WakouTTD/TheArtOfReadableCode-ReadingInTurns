@@ -1,0 +1,5 @@
+footnote : "リーダブルコード輪読会[3回目]"
+theme : offwhite
+layout : top-left
+mathjax : TeX-MML-AM_HTMLorMML-full
+theme-override : PITCHME.css
