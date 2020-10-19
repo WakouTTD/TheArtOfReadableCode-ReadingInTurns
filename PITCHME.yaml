@@ -1,7 +1,19 @@
 gitpitch : 4.0
 
+published: true
+
+theme-override: PITCHME.css
+
+custom-fonts: [
+  "assets/fonts/Inter.woff2",
+  "assets/fonts/YanoneKaffeesatz.woff2"
+]
+
+title: "リーダブルコード輪読会[3回目]"
+
 footnote : "リーダブルコード輪読会[3回目]"
 theme : offwhite
-layout : top-left
-mathjax : TeX-MML-AM_HTMLorMML-full
-theme-override : PITCHME.css
+
+
+#layout : top-left
+#mathjax : TeX-MML-AM_HTMLorMML-full
